@@ -1,7 +1,7 @@
 var mysql = require("mysql");
 
 var connection = mysql.createConnection({
-  host: "https://tranquil-retreat-35108.herokuapp.com/",
+  host: "localhost",
   port: 3306,
   user: "root",
   password: "Louise#89",

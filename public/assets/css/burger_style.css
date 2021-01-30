@@ -1,4 +1,9 @@
 h1 {
     text-align: center;
     margin: 20px;
+    background-color: peachpuff;
 };
+
+#body {
+    background-color: peachpuff;
+}

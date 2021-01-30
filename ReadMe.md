@@ -20,6 +20,8 @@ This app is meant to add new burgers to a ul of un-eaten burgers. You may then c
 
 * [Demo](#demo)
 
+* [Screenshot](#screenshot)
+
 ## Installation
 
 To install necessary dependencies, run the following command:
@@ -54,4 +56,8 @@ If you have any questions about the repo,please contact me at drfrank22@gmail.co
 
 ## Demo
 
-<iframe src="https://drive.google.com/file/d/1ZBvkRU4Rd5NBK806DD_cZbHbsipidpq6/preview" width="640" height="480"></iframe>
+![EAT DA BURGER](./public/assets/img/eatDaBurger.gif)
+
+## Screenshot
+
+![EAT DA BURGER](./public/assets/img/screenshot.png)
